@@ -66,10 +66,10 @@ Some useful resources:
 Specifics:
 
 * Liveness/Readiness probes:
- * https://docs.openshift.com/container-platform/3.11/dev_guide/application_health.html
- * https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-probes/
+    * https://docs.openshift.com/container-platform/3.11/dev_guide/application_health.html
+    * https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-probes/
 * Requests/Limits:
- * https://docs.openshift.com/container-platform/3.11/dev_guide/compute_resources.html#dev-compute-resources
- * https://kubernetes.io/docs/concepts/configuration/manage-compute-resources-container/
+    * https://docs.openshift.com/container-platform/3.11/dev_guide/compute_resources.html#dev-compute-resources
+    * https://kubernetes.io/docs/concepts/configuration/manage-compute-resources-container/
 * deploymentconfig
- * https://docs.openshift.com/container-platform/3.11/dev_guide/deployments/how_deployments_work.html
+    * https://docs.openshift.com/container-platform/3.11/dev_guide/deployments/how_deployments_work.html
